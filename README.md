@@ -1,0 +1,2 @@
+# fastcheck
+fast
